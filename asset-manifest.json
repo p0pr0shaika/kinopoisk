@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kinopoisk/static/css/main.aacd4d7a.css",
+    "main.js": "/kinopoisk/static/js/main.21d04fe8.js",
+    "index.html": "/kinopoisk/index.html",
+    "static/media/search.svg": "/kinopoisk/static/media/search.3b95d5c107628117b0b5.svg",
+    "static/media/xmark.svg": "/kinopoisk/static/media/xmark.ffbfdd2653bc98cff937.svg",
+    "main.aacd4d7a.css.map": "/kinopoisk/static/css/main.aacd4d7a.css.map",
+    "main.21d04fe8.js.map": "/kinopoisk/static/js/main.21d04fe8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aacd4d7a.css",
+    "static/js/main.21d04fe8.js"
+  ]
+}
